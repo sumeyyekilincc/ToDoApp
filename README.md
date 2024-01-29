@@ -1,16 +1,3 @@
-# todo_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ToDoAPP
+Used Packages
+Among the packages utilized in the development of my mobile application are Hive, which provides a lightweight and fast NoSQL database; easy_localization, facilitating the addition of multi-language support; get_it, aiding in dependency injection management; uuid, utilized for generating unique identifiers; hive_flutter, enabling Hive integration in Flutter applications; and Lottie, used for integrating animations. I employed these packages to optimize the performance of my application, provide multi-language support, manage dependencies, and enhance visual appeal.
